@@ -1,0 +1,9 @@
+{
+    "arch": "x86_64",
+    "cpu": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+    "machine": "runnervmmklqx",
+    "num_cpu": "4",
+    "os": "Linux 6.17.0-1018-azure",
+    "ram": "16372448",
+    "version": 1
+}
